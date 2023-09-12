@@ -1,0 +1,24 @@
+{
+  "name": "100-days-of-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript programlama dilini 100 günde öğrenmek için adım adım bir kılavuzdur. Bu işlem 100 günden fazla sürebilir, repoya destek olabilirsiniz..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aytaa/100-days-of-javascript.git"
+  },
+  "keywords": [
+    "100",
+    "days",
+    "javascript"
+  ],
+  "author": "Aytaç Ünal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aytaa/100-days-of-javascript/issues"
+  },
+  "homepage": "https://github.com/aytaa/100-days-of-javascript#readme"
+}
